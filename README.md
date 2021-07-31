@@ -2,6 +2,9 @@
 
 This repository contains Jupyter Notebooks for the paper: Medical Relationship Extraction with Bio-Clinical BERT and Longformer.
 
+## Dataset
+The 2012 i2b2 temporal relation dataset can be found here: https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/ and requires registaration.
+
 ## Notebooks
 A total of six notesbooks were used in this project. 
 
