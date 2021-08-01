@@ -1,6 +1,6 @@
 # w266-2021-Medical-Relationship-Extraction-with-Bio-Clinical-BERT-and-Longformer
 
-This repository contains Jupyter Notebooks for the paper: Medical Relationship Extraction with Bio-Clinical BERT and Longformer.
+This repository contains Jupyter Notebooks for the paper: [Medical Relationship Extraction with Bio-Clinical BERT and Longformer](https://github.com/sli0111/w266-2021-Medical-Relationship-Extraction-with-Bio-Clinical-BERT-and-Longformer/blob/main/W266%20-%20Medical%20Relationship%20Extraction%20with%20Bio-Clinical%20BERT%20and%20Longformer.pdf).
 
 ## Dataset
 The 2012 i2b2 temporal relation dataset can be found here: https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/ and requires registaration.
